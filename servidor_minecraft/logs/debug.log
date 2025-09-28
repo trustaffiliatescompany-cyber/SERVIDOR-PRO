@@ -17011,3 +17011,97 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [23:07:43] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 235 times.
 
 [23:08:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:33] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 240 times.
+
+[23:08:33] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 240 times.
+
+[23:08:33] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 240 times.
+
+[23:09:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:16] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[23:09:16] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[23:09:16] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[23:09:16] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[23:09:23] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 245 times.
+
+[23:09:23] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 245 times.
+
+[23:09:23] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 245 times.
+
+[23:09:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:13] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 250 times.
+
+[23:10:13] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 250 times.
+
+[23:10:13] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 250 times.
+
+[23:10:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:03] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 255 times.
+
+[23:11:03] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 255 times.
+
+[23:11:03] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 255 times.
+
+[23:11:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:53] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 260 times.
+
+[23:11:53] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 260 times.
+
+[23:11:53] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 260 times.
+
+[23:12:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:43] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 265 times.
+
+[23:12:43] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 265 times.
+
+[23:12:43] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 265 times.
+
+[23:12:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:13:33] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 270 times.
+
+[23:13:33] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 270 times.
+
+[23:13:33] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 270 times.
+
+[23:13:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:22] [Server thread/INFO] [OverLast]: Saving data to disk.
+[23:14:22] [Server thread/INFO] [OverLast]: Rain is on the way in 4159 ticks.
+[23:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
+[23:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Load! aim! Kill with one blow! Monsters can make mistakes many times, but you can only make mistakes once!
+[23:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
+[23:14:23] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 275 times.
+
+[23:14:23] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 275 times.
+
+[23:14:23] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 275 times.
+
+[23:15:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:13] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 280 times.
+
+[23:15:13] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 280 times.
+
+[23:15:13] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 280 times.
+
+[23:15:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:03] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 285 times.
+
+[23:16:03] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 285 times.
+
+[23:16:03] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 285 times.
+
+[23:16:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:53] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 290 times.
+
+[23:16:53] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 290 times.
+
+[23:16:53] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 290 times.
+
+[23:17:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:43] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 295 times.
+
+[23:17:43] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 295 times.
+
+[23:17:43] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 295 times.
+
+[23:18:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

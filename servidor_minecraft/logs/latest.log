@@ -513,3 +513,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:39:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
 [22:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
 [22:42:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[22:50:37] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[22:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:54:22] [Server thread/INFO] [OverLast]: Saving data to disk.
+[22:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
+[22:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: My friends, have you ever cared what is in the endless sky on this land full of monsters? Is it endless loneliness or endless hope?
+[22:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spring is here again, and it's time for animals to wake up from their hibernation. I mean, be careful with creatures from underground!
+[22:55:18] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[22:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[22:56:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]

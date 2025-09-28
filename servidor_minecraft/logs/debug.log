@@ -16471,3 +16471,98 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:47:43] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 115 times.
 
 [22:48:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:33] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 120 times.
+
+[22:48:33] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 120 times.
+
+[22:48:33] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 120 times.
+
+[22:48:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:23] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 125 times.
+
+[22:49:23] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 125 times.
+
+[22:49:23] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 125 times.
+
+[22:49:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:13] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 130 times.
+
+[22:50:13] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 130 times.
+
+[22:50:13] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 130 times.
+
+[22:50:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:37] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[22:51:03] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 135 times.
+
+[22:51:03] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 135 times.
+
+[22:51:03] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 135 times.
+
+[22:51:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:53] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 140 times.
+
+[22:51:53] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 140 times.
+
+[22:51:53] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 140 times.
+
+[22:52:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:43] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 145 times.
+
+[22:52:43] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 145 times.
+
+[22:52:43] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 145 times.
+
+[22:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:53:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:33] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 150 times.
+
+[22:53:33] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 150 times.
+
+[22:53:33] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 150 times.
+
+[22:54:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:22] [Server thread/INFO] [OverLast]: Saving data to disk.
+[22:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
+[22:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: My friends, have you ever cared what is in the endless sky on this land full of monsters? Is it endless loneliness or endless hope?
+[22:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spring is here again, and it's time for animals to wake up from their hibernation. I mean, be careful with creatures from underground!
+[22:54:23] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 155 times.
+
+[22:54:23] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 155 times.
+
+[22:54:23] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 155 times.
+
+[22:54:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:13] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 160 times.
+
+[22:55:13] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 160 times.
+
+[22:55:13] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 160 times.
+
+[22:55:18] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[22:55:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[22:56:03] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 165 times.
+
+[22:56:03] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 165 times.
+
+[22:56:03] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 165 times.
+
+[22:56:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:56:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:56:53] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 170 times.
+
+[22:56:53] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 170 times.
+
+[22:56:53] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 170 times.
+
+[22:57:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[22:57:43] [Server thread/DEBUG] [FML]: The world 183340b2 (world) may have leaked: seen 175 times.
+
+[22:57:43] [Server thread/DEBUG] [FML]: The world 7d9aeab3 (world) may have leaked: seen 175 times.
+
+[22:57:43] [Server thread/DEBUG] [FML]: The world fc7fbe0 (world) may have leaked: seen 175 times.
+
+[22:57:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

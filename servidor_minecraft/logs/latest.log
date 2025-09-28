@@ -52,3 +52,13 @@
 [01:48:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -3.7036839283408654,-1.044812420399012,-9.449730891122272
 [01:48:27] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
 [01:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick got revenge on Assimilated Enderman
+[01:59:54] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:59:54] [Server thread/INFO] [OverLast]: Rain is on the way in 5852 ticks.
+[01:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
+[01:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: My friends, have you ever cared what is in the endless sky on this land full of monsters? Is it endless loneliness or endless hope?
+[01:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter is also called the parasite season, but we are ready for those thing, right?
+[02:03:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -4.83025877500836,0.37673561378172593,9.079894515322025
+[02:05:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -2.951317384382662,0.1356500141260284,9.64245342931332
+[02:05:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[02:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell from a high place
+[02:05:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s

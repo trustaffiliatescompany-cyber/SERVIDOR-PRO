@@ -16555,3 +16555,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:23:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:24:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:24:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:25:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:30:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:30:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:30:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:30:55] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:30:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:28 mods->FMLHandshakeServerState$2:HELLO
+[01:30:55] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,extrautils2@1.0,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,placeableitems@3.3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[01:30:55] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[01:30:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:30:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:30:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:31:02] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:31:02] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:31:02] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:31:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:31:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.100.251.230:48125] logged in with entity id 6827 at (-382.88103692864854, 63.914011452343296, 170.68697875922902)
+[01:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[01:31:02] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/6827, l='world', x=-382.88, y=63.91, z=170.69] connected. Sending ping
+[01:31:03] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:31:07] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[01:31:07] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[01:31:07] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[01:31:13] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[01:31:13] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[01:31:13] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[01:31:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Assimilated Enderman
+[01:32:24] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:32:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:32:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Assimilated Enderman
+[01:32:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Primitive Manducater
+[01:32:44] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:32:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Primitive Manducater
+[01:33:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Rupter
+[01:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Overseer
+[01:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Overseer
+[01:33:41] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.gui.backend.DynamicContainer$PacketGUIData
+[01:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Overseer
+[01:33:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Primitive Manducater
+[01:34:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was shot by Zombie Farmer
+[01:34:35] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:35:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

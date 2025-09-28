@@ -49,3 +49,6 @@
 [01:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 2.
 [01:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: {carzy lanugh} Now, the whole world is on fire hahahaha...... {crazy laugh}
 [01:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
+[01:48:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -3.7036839283408654,-1.044812420399012,-9.449730891122272
+[01:48:27] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[01:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick got revenge on Assimilated Enderman

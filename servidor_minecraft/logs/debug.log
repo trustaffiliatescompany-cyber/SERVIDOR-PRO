@@ -16652,3 +16652,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:43:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:44:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:45:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:47:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:48:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:48:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -3.7036839283408654,-1.044812420399012,-9.449730891122272
+[01:48:27] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[01:48:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:49:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:50:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick got revenge on Assimilated Enderman
+[01:51:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:52:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:53:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:54:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:54:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:55:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

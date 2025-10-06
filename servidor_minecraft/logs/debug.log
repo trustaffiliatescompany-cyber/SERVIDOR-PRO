@@ -16294,3 +16294,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:19:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:20:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:21:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
+[01:22:09] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:22:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[01:22:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[01:22:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:25:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

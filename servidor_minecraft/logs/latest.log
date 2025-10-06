@@ -476,3 +476,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick got revenge on Feral Enderman
 [01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
 [01:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[01:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Feral Human
+[01:22:09] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:22:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[01:22:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
